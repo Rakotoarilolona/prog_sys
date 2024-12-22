@@ -1,0 +1,35 @@
+IP_SERVEUR : localhost
+PORT_PRINCIPALE_RECUP : 1234
+PORT_PRINCIPALE_PUT : 5000
+
+
+ISANY : 5
+
+IP_1 : localhost
+IP_2 : localhost
+IP_3 : localhost
+IP_4 : localhost
+IP_5 : localhost
+
+PORT_1 : 6000
+PORT_2 : 6001
+PORT_3 : 6002
+PORT_4 : 6003
+PORT_5 : 6004
+
+PORT_PUT_1 : 6010
+PORT_PUT_2 : 6011
+PORT_PUT_3 : 6012
+PORT_PUT_4 : 6013
+PORT_PUT_5 : 6014
+
+PATH_RECUP_1 : /home/hasiniaina/Documents/elie/prog_system/serveur_socket/transfert/final_mainty_2/partie1
+PATH_RECUP_2 : /home/hasiniaina/Documents/elie/prog_system/serveur_socket/transfert/final_mainty_2/partie2
+PATH_RECUP_3 : /home/hasiniaina/Documents/elie/prog_system/serveur_socket/transfert/final_mainty_2/partie3
+PATH_RECUP_4 : /home/hasiniaina/Documents/elie/prog_system/serveur_socket/transfert/final_mainty_2/partie4
+PATH_RECUP_5 : /home/hasiniaina/Documents/elie/prog_system/serveur_socket/transfert/final_mainty_2/partie5
+
+PATH : /home/hasiniaina/Documents/test_ftp/partie1/
+
+IP_CLIENT : localhost
+PORT_CLIENT : 4321
